@@ -1,0 +1,6 @@
+CARRINHO MECATRÔNICO
+Desenvolvido no SENAI Anchieta, localizado na Vila Mariana;
+
+Principal objetivo: controlar um carrinho através de app via celular,
+com placa eletrônica e ESP-32 realizando a comunicação via Bluetooth.
+  
